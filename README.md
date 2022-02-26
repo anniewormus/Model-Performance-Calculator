@@ -2,7 +2,7 @@
 AWS Model Performance Calculator
 
 To-Do
-\nlog in page
+<p>log in page</p>
 tiles for models
 create new models
 click on models and see performance
