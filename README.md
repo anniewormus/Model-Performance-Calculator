@@ -1,4 +1,3 @@
-# Model-Performance-Calculator
 <h1>AWS Model Performance Calculator</h1>
 
 <h2>To-Do</h2>
