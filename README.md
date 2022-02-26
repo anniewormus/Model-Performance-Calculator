@@ -2,10 +2,10 @@
 AWS Model Performance Calculator
 
 To-Do
-<p>log in page</p>
+<p>log in page
 tiles for models
 create new models
 click on models and see performance
-click on models and see details - tickers and weights
+click on models and see details - tickers and weights </p>
 
 
